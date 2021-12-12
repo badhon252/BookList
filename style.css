@@ -1,43 +1,38 @@
-*{
-/* background-color: #FBF4E9; */
-}
-
 th {
-    padding: 5px 20px;
+  padding: 5px 20px;
 }
 
 div {
-    padding: 10px 0;
+  padding: 10px 0;
 }
 
 tr {
-    color: black;
-    text-align: center;
+  color: black;
+  text-align: center;
 }
-label{
+label {
   font-size: 1.2rem;
 }
-tbody tr td a{
-    color: red;
-    text-decoration: none;
+tbody tr td a {
+  color: red;
+  text-decoration: none;
 }
-
 
 .success,
 .error {
-    color: white;
-    padding: 5px;
-    margin: 5px 0 15px 0;
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
 }
 
 .success {
-    background-color: green;
+  background-color: green;
 }
 
 .error {
-    background-color: red;
+  background-color: red;
 }
 
 .remove {
-    background-color: orange;
+  background-color: orange;
 }
